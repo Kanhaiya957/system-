@@ -115,7 +115,7 @@ for (let i = 0; i < formInputs.length; i++) {
       formBtn.setAttribute("disabled", "");
     }
 
-  });
+  }
 }
 
 
